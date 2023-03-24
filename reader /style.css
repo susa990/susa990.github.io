@@ -1,0 +1,16 @@
+body {
+    background-color: olive;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@font-face {
+    font-family: "positions";
+    src: url(PositionsByArixbored-Regular\ .woff);
+}
+
+h1 {
+    font-family: "positions";
+    font-size: 100px;
+    color:violet
+}
+
