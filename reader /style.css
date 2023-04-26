@@ -1,5 +1,5 @@
 body {
-    background-color: olive;
+    background-color: greenyellow;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -11,6 +11,9 @@ body {
 h1 {
     font-family: "positions";
     font-size: 100px;
-    color:violet
+    color: red
 }
 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
