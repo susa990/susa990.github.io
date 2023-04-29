@@ -13,6 +13,10 @@ h1 {
     font-size: 150px;
     color: rgb(19, 157, 26)
 }
+
+h2 {
+    position: 100px
+}
 body {
     font-family: 'Courier New', Courier, monospace
 }
