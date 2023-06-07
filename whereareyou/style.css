@@ -1,0 +1,145 @@
+body {
+    background-color: green;
+}
+
+img {
+    width:100%
+}
+
+div.row {
+    display:flex;
+    flex-wrap: wrap;
+    margin: 0px;
+
+}
+
+div.col {
+    outline: px solid greenyellow;
+    height: 600px;
+    
+}
+
+div.width33 {
+    width: 33%;
+}
+
+div.width20 {
+    height: 200px
+    
+
+}
+
+
+div.width100 {
+    width: 100%;
+}
+
+div.width80 {
+    width:80%
+}
+
+div.width50 {
+    width: 50%;
+}
+
+div.width66 {
+    width: 100%;
+}
+
+div.wdith75 {
+    width:75%
+}
+
+div.width40 {
+    width:40%
+}
+
+div.width33 {
+    width:33.33%;
+}
+
+div.width25 {
+    width:25%
+}
+
+div.width20 {
+    width:100%;
+}
+
+
+
+
+div.hero {
+    
+    height: 400px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 200px;
+    display:flex;
+    flex-wrap: wrap;
+    margin: 0px;
+    
+}
+
+
+
+
+
+div.image2 {
+    
+}
+
+
+img {
+    width:100%;
+  }
+  
+  div.left {
+    font-size:10px;
+    width:30%;
+    height:100vh;
+    overflow:scroll;
+    background-color: green;  
+    padding:20px;
+    box-shadow:10px 10px 10px greenyellow;
+    
+    position:fixed;
+    left:0;
+    right:0;
+    z-index: 50;
+    transition:1s;  
+  }
+  
+  div.left:hover {
+    z-index:50;
+    width: 90;
+    transition:1s;
+  }
+  
+  div.right {
+    font-size:10px;
+    font-style: italic;
+    font-family: monospace;
+    width:20%;
+    height:100vh;
+    overflow:scroll;
+    padding:20px;  
+    box-shadow:-10px -10px 10px rgb(153, 255, 10);
+    background-color: rgb(238, 29, 26);
+  /*  pins the right page to the top right, the z index is the stacking order  */
+    position:fixed;
+    top:0;
+    right:0;
+    z-index: 10;
+  }
+
+  
+
+  div.banner {
+    font-size:36px;
+    font-family: monospace;
+    background-color: rgb(132, 255, 0);
+    margin-bottom:10px;
+  }
