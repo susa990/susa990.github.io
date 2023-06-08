@@ -1,5 +1,5 @@
 body {
-    background-color: green;
+    background-color: rgb(19, 69, 178);
 }
 
 img {
@@ -120,14 +120,14 @@ img {
   
   div.right {
     font-size:10px;
-    font-style: italic;
+    font-style: italic; color: azure;
     font-family: monospace;
     width:20%;
     height:100vh;
     overflow:scroll;
     padding:20px;  
     box-shadow:-10px -10px 10px rgb(153, 255, 10);
-    background-color: rgb(238, 29, 26);
+    background-color: rgb(135, 22, 36);
   /*  pins the right page to the top right, the z index is the stacking order  */
     position:fixed;
     top:0;
@@ -143,3 +143,4 @@ img {
     background-color: rgb(132, 255, 0);
     margin-bottom:10px;
   }
+

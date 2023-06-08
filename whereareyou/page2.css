@@ -1,3 +1,93 @@
+  
 body {
-    background-color: aliceblue;
+    background-color: green;
 }
+
+img {
+    width:100%
+}
+
+div.row {
+    display:flex;
+    flex-wrap: wrap;
+    margin: 0px;
+
+}
+
+div.col {
+    outline: px solid greenyellow;
+    height: 600px;
+    
+}
+
+div.width33 {
+    width: 33%;
+}
+
+div.width20 {
+    height: 200px
+    
+
+}
+
+
+div.width100 {
+    width: 100%;
+}
+
+div.width80 {
+    width:80%
+}
+
+div.width50 {
+    width: 50%;
+}
+
+div.width66 {
+    width: 100%;
+}
+
+div.wdith75 {
+    width:75%
+}
+
+div.width40 {
+    width:40%
+}
+
+div.width33 {
+    width:33.33%;
+}
+
+div.width25 {
+    width:25%
+}
+
+div.width20 {
+    width:100%;
+}
+
+
+
+
+div.box {
+    width: 300px;
+    height: 300px;
+    font-size: 40px;
+    background-color: red;
+    overflow: scroll;
+  }
+
+  body { margin: 0; padding: 0; backgound-color: #F5F5F5;
+    font-family: Arial, Sans-Serif;
+    }
+    .wrapper{
+      height: 100vh;
+      display: grid;
+              align-items: center;
+            justify-content: center;
+    }
+    
+    
+    
+    
